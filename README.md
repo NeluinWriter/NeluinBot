@@ -1,1 +1,2 @@
-# Neluin
+# NeluinBot
+Repository for NeluinBot
